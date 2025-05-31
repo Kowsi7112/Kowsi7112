@@ -2,7 +2,7 @@
 
 Full Stack Developer with practical experience in designing and developing responsive, scalable web applications using ReactJS, Bootstrap, HTML, CSS, and JavaScript. Proficient in backend development with Java and Spring Boot, with strong database management skills using MySQL. Demonstrated expertise in integrating third-party APIs, including the WhatsApp Cloud API and Meta Business Suite, to deliver dynamic and real-time messaging solutions. Committed to writing clean, maintainable code and contributing effectively within agile, collaborative team environments...
 
- FullStack Developer @ Egai Soft  
+👩🏻‍💻 FullStack Developer 
 
 - 🔗 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 👩🏻‍💻 I’m currently learning and Working in a Frontend and Backend Developer
