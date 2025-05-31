@@ -1,6 +1,6 @@
 ## About Me
 
- FullStack Developer @ Egai Soft
+ FullStack Developer @ Egai Soft 
 
 - 🔗 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 👩🏻‍💻 I’m currently learning and Working in a Frontend and Backend Developer
