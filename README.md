@@ -123,7 +123,7 @@ Developing responsive and user-friendly web interfaces using HTML5, CSS3, JavaSc
 
 <div align="center">
 
-📫 **Reach me:** [kowsalyakannan2021@gmail.com](mailto:kowsalyakannan2021@gmail.com) · [LinkedIn](https://linkedin.com/in/kowsalyakannan)
+📫 **Reach me:** [kowsalyakannan2021@gmail.com](mailto:kowsalyakannan2021@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kowsalya-kannan/)
 
 <br>
 
