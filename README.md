@@ -93,26 +93,20 @@ Developing responsive and user-friendly web interfaces using HTML5, CSS3, JavaSc
 
 <div align="center">
 
+<!-- GitHub Readme Stats (இது உங்கள் ஸ்டாட்ஸ் காட்டும்) -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kowsi7112&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kowsi7112&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<!-- GitHub Streak Stats (தொடர்ச்சியான கோடுகளைக் காட்டும்) -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kowsi7112&theme=tokyonight&hide_border=true&border_radius=12&short_numbers=true"/>
 
 <br>
 
+<!-- GitHub Activity Graph (கடந்த 30 நாட்களின் செயல்பாடுகள்) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kowsi7112&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
-
-<br>
-
-## 🧊 3D Contribution Graph
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D contribution graph">
-
-</div>
-
-<br>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
