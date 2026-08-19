@@ -1,21 +1,117 @@
-## About Me
+<div align="center">
 
-Full Stack Developer with practical experience in designing and developing responsive, scalable web applications using ReactJS, Bootstrap, HTML, CSS, and JavaScript. Proficient in backend development with Java and Spring Boot, with strong database management skills using MySQL. Demonstrated expertise in integrating third-party APIs, including the WhatsApp Cloud API and Meta Business Suite, to deliver dynamic and real-time messaging solutions. Committed to writing clean, maintainable code and contributing effectively within agile, collaborative team environments...
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8993ea,50:9694fa,100:6ee2f5&height=6&section=header" width="100%">
 
-👩🏻‍💻 FullStack Developer 
+<h1>Hi, I'm Kowsalya Kannan 👋</h1>
+<h3>Frontend Developer | ReactJS · JavaScript · Responsive UI</h3>
 
-- 🔗 Here's my [portfolio]()                                                 
-- 👩🏻‍💻 I’m currently learning and Working in a Frontend and Backend Developer
-- 🎓 BE (Electrical And Electronics Engineering) at Vaigai Collage of Engineering
-  
-### I Code in 
- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img width="50" height="50" src="https://img.icons8.com/external-others-amoghdesign/48/external-react-native-soleicons-fill-vol-1-others-amoghdesign.png" alt="external-react-native-soleicons-fill-vol-1-others-amoghdesign"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>  
+<a href="https://linkedin.com/in/kowsalyakannan">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:kowsalyakannan2021@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img width="50" height="50" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="external-MySQL-programming-and-development-those-icons-flat-those-icons"/><img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
+<br/>
 
-### Projects
-- Elai.in -integrated Meta Business Suite templates into the elai.in backend using Java. Developed Spring Boot APIs to send WhatsApp template messages, including support for image headers. Implemented dynamic ReactJS dropdowns with pagination for selecting template names.
-- Elai Food Website-Built a responsive food ordering website using HTML, CSS, and JavaScript. Enabled real-time order placement linked to WhatsApp for direct customer interaction.Improved mobile responsiveness and streamlined navigation
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8993EA&center=true&vCenter=true&width=700&lines=Frontend+Developer;ReactJS+%E2%80%A2+JavaScript+%E2%80%A2+HTML5+%E2%80%A2+CSS3;Building+Reusable+UI+Components;Experience+in+Agile+%26+REST+APIs" alt="Typing SVG">
+</a>
+
+</div>
+
+<br>
+
+## 🖥️ About Me
+
+<div align="center">
+  <img src="./assets/whoami-ironman.svg" alt="whoami" width="100%">
+</div>
+
+<br>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="./assets/techstack-thor.svg" alt="tech stack" width="100%">
+</div>
+
+<br>
+
+## 💼 Experience
+
+<div align="center">
+  <img src="./assets/experience-timeline.svg" alt="experience timeline" width="100%">
+</div>
+
+<br>
+
+<details open>
+<summary><b>🔵 Frontend Developer — eGaisoft, Bangalore</b> &nbsp;<sub>2025 – Present</sub></summary>
+<br>
+
+Developing responsive and user-friendly web interfaces using HTML5, CSS3, JavaScript, ReactJS, and Bootstrap. Building reusable ReactJS components and interactive UI features to improve application usability. Implemented dynamic data handling using React Hooks and REST APIs. Integrated WhatsApp Cloud API for messaging workflows.
+
+<code>ReactJS</code> <code>JavaScript</code> <code>HTML5</code> <code>CSS3</code> <code>Bootstrap</code> <code>React Hooks</code> <code>REST APIs</code> <code>Git/GitHub</code>
+</details>
+
+<br>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| | | |
+|---|---|---|
+| 🔺 **[Elai.in Order Dashboard](https://github.com/YourGitHubUsername/Elai-Dashboard)** | Interactive order management dashboard | `ReactJS` `React Hooks` `React-Bootstrap` |
+| 🌀 **[Recent Orders Table](https://github.com/YourGitHubUsername/OrderTable)** | Dynamic filtering & responsive table | `JavaScript` `Conditional Rendering` |
+| 🖐️ **[Customer Messaging Feature](https://github.com/YourGitHubUsername/WhatsApp-API)** | WhatsApp Cloud API Integration | `REST API` `Postman` |
+
+</div>
+
+<br>
+
+<details>
+<summary><b>📦 Project Details</b></summary>
+<br>
+
+| Project | Description |
+|---|---|
+| [Elai.in Website](https://github.com/YourGitHubUsername/Elai-Dashboard) | Built order summary cards (Total, Completed, Pending) with click-based filtering and delivery navigation (Today, Tomorrow, Day After Tomorrow). |
+| [Recent Orders Feature](https://github.com/YourGitHubUsername/OrderTable) | Developed a responsive table with customer details, order dates, balance, and status badges using conditional rendering. |
+| [API Workflows](https://github.com/YourGitHubUsername/WhatsApp-API) | Implemented dynamic data handling and API integration using Postman and RESTful JSON services. |
+
+</details>
+
+<br>
+
+## 🎓 Education & Certifications
+
+- **B.E. Electrical and Electronics Engineering** — Vaigai College of Engineering, Anna University
+- **Frontend Web Development** — LinkedIn Learning, 2024
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true&border_radius=12&short_numbers=true"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+📫 **Reach me:** [kowsalyakannan2021@gmail.com](mailto:kowsalyakannan2021@gmail.com) · [LinkedIn](https://linkedin.com/in/kowsalyakannan)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6ee2f5,50:9694fa,100:8993ea&height=6&section=footer" width="100%">
+
+</div>
