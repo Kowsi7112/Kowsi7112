@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8993ea,50:9694fa,100:6ee2f5&height=6&section=header" width="100%">
 
 <h1>Hi, I'm Kowsalya Kannan 👋</h1>
-<h3>Frontend Developer | ReactJS · JavaScript · Responsive UI</h3>
+<h3>Frontend Developer · ReactJS · JavaScript · Responsive UI</h3>
 
 <a href="https://linkedin.com/in/kowsalyakannan">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -11,6 +11,7 @@
 <a href="mailto:kowsalyakannan2021@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+<img src="https://komarev.com/ghpvc/?username=Kowsi7112&style=for-the-badge&color=6a4fea&label=PROFILE+VIEWS">
 
 <br/>
 
@@ -22,7 +23,7 @@
 
 <br>
 
-## 🖥️ About Me
+## 🖥️ whoami
 
 <div align="center">
   <img src="./assets/whoami-ironman.svg" alt="whoami" width="100%">
@@ -59,27 +60,23 @@ Developing responsive and user-friendly web interfaces using HTML5, CSS3, JavaSc
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 | | | |
 |---|---|---|
-| 🔺 **[Elai.in Order Dashboard](https://github.com/YourGitHubUsername/Elai-Dashboard)** | Interactive order management dashboard | `ReactJS` `React Hooks` `React-Bootstrap` |
-| 🌀 **[Recent Orders Table](https://github.com/YourGitHubUsername/OrderTable)** | Dynamic filtering & responsive table | `JavaScript` `Conditional Rendering` |
-| 🖐️ **[Customer Messaging Feature](https://github.com/YourGitHubUsername/WhatsApp-API)** | WhatsApp Cloud API Integration | `REST API` `Postman` |
-
-</div>
+| 🔺 **[Elai.in Order Dashboard](https://github.com/Kowsi7112/Elai-Dashboard)** | Interactive order management dashboard | `ReactJS` `React Hooks` `React-Bootstrap` |
+| 🌀 **[Recent Orders Table](https://github.com/Kowsi7112/OrderTable)** | Dynamic filtering & responsive table | `JavaScript` `Conditional Rendering` |
+| 🖐️ **[WhatsApp Cloud API](https://github.com/Kowsi7112/WhatsApp-API)** | Customer messaging feature integration | `REST API` `Postman` |
 
 <br>
 
 <details>
-<summary><b>📦 Project Details</b></summary>
+<summary><b>📦 More project details</b></summary>
 <br>
 
 | Project | Description |
 |---|---|
-| [Elai.in Website](https://github.com/YourGitHubUsername/Elai-Dashboard) | Built order summary cards (Total, Completed, Pending) with click-based filtering and delivery navigation (Today, Tomorrow, Day After Tomorrow). |
-| [Recent Orders Feature](https://github.com/YourGitHubUsername/OrderTable) | Developed a responsive table with customer details, order dates, balance, and status badges using conditional rendering. |
-| [API Workflows](https://github.com/YourGitHubUsername/WhatsApp-API) | Implemented dynamic data handling and API integration using Postman and RESTful JSON services. |
+| [Elai.in Website](https://github.com/Kowsi7112/Elai-Dashboard) | Built order summary cards (Total, Completed, Pending) with click-based filtering and delivery navigation. |
+| [Recent Orders Table](https://github.com/Kowsi7112/OrderTable) | Developed responsive table with customer details, order dates, balance, and status badges. |
+| [API Workflows](https://github.com/Kowsi7112/WhatsApp-API) | Implemented dynamic data handling using Postman and RESTful JSON services. |
 
 </details>
 
@@ -96,11 +93,35 @@ Developing responsive and user-friendly web interfaces using HTML5, CSS3, JavaSc
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true&border_radius=12&short_numbers=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kowsi7112&theme=tokyonight&hide_border=true&border_radius=12&short_numbers=true"/>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kowsi7112&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+<br>
+
+## 🧊 3D Contribution Graph
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D contribution graph">
+
+</div>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kowsi7112/Kowsi7112/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kowsi7112/Kowsi7112/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Kowsi7112/Kowsi7112/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
