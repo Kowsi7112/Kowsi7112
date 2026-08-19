@@ -89,36 +89,6 @@ Developing responsive and user-friendly web interfaces using HTML5, CSS3, JavaSc
 
 <br>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- GitHub Readme Stats (இது உங்கள் ஸ்டாட்ஸ் காட்டும்) -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kowsi7112&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kowsi7112&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<!-- GitHub Streak Stats (தொடர்ச்சியான கோடுகளைக் காட்டும்) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kowsi7112&theme=tokyonight&hide_border=true&border_radius=12&short_numbers=true"/>
-
-<br>
-
-<!-- GitHub Activity Graph (கடந்த 30 நாட்களின் செயல்பாடுகள்) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kowsi7112&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kowsi7112/Kowsi7112/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kowsi7112/Kowsi7112/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Kowsi7112/Kowsi7112/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
 <br>
 
 <div align="center">
