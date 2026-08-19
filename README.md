@@ -5,7 +5,7 @@
 <h1>Hi, I'm Kowsalya Kannan 👋</h1>
 <h3>Frontend Developer · ReactJS · JavaScript · Responsive UI</h3>
 
-<a href="https://linkedin.com/in/kowsalyakannan">
+<a href="https://www.linkedin.com/in/kowsalya-kannan/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:kowsalyakannan2021@gmail.com">
