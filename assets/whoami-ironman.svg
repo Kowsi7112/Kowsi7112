@@ -63,7 +63,7 @@
   </g>
 
   <g clip-path="url(#reveal)" font-family="'Fira Code','Cascadia Code',Consolas,Menlo,monospace">
-    <text x="40" y="56" font-size="19" font-weight="700" fill="#ffd700">kowsalya@frontend-dev:~$ cat about_me.txt</text>
+    <text x="40" y="56" font-size="19" font-weight="700" fill="#ffd700">kowsalya@Fullstack Developer-dev:~$ cat about_me.txt</text>
 
     <text x="40" y="98" font-size="15" fill="#f0e6d2">
       <tspan fill="#ffce54">name</tspan><tspan fill="#c9a97a">: </tspan><tspan>Kowsalya Kannan</tspan>
