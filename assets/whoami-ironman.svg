@@ -69,25 +69,25 @@
       <tspan fill="#ffce54">name</tspan><tspan fill="#c9a97a">: </tspan><tspan>Kowsalya Kannan</tspan>
     </text>
     <text x="40" y="126" font-size="15" fill="#f0e6d2">
-      <tspan fill="#ffce54">role</tspan><tspan fill="#c9a97a">: </tspan><tspan>Frontend Developer</tspan>
+      <tspan fill="#ffce54">role</tspan><tspan fill="#c9a97a">: </tspan><tspan>Full Stack Developer</tspan>
     </text>
     <text x="40" y="154" font-size="15" fill="#f0e6d2">
       <tspan fill="#ffce54">based_in</tspan><tspan fill="#c9a97a">: </tspan><tspan>Bangalore, India</tspan>
     </text>
     <text x="40" y="182" font-size="15" fill="#f0e6d2">
-      <tspan fill="#ffce54">focus</tspan><tspan fill="#c9a97a">: </tspan><tspan>[Responsive UIs, Reusable Components, API Integration]</tspan>
+      <tspan fill="#ffce54">focus</tspan><tspan fill="#c9a97a">: </tspan><tspan>[Full Stack Web Dev, Scalable APIs, Cloud Deployment]</tspan>
     </text>
     <text x="40" y="210" font-size="15" fill="#f0e6d2">
-      <tspan fill="#ffce54">stack</tspan><tspan fill="#c9a97a">: </tspan><tspan>[ReactJS, JavaScript, HTML5, CSS3, Bootstrap, REST APIs, Git]</tspan>
+      <tspan fill="#ffce54">stack</tspan><tspan fill="#c9a97a">: </tspan><tspan>[ReactJS, Node.js, Express, MongoDB, PostgreSQL, Docker, AWS, Git]</tspan>
     </text>
     <text x="40" y="238" font-size="15" fill="#f0e6d2">
-      <tspan fill="#ffce54">side_projects</tspan><tspan fill="#c9a97a">: </tspan><tspan>Order Dashboards, Interactive Tables</tspan>
+      <tspan fill="#ffce54">side_projects</tspan><tspan fill="#c9a97a">: </tspan><tspan>E-commerce APIs, Real-time Dashboards</tspan>
     </text>
     <text x="40" y="266" font-size="15" fill="#f0e6d2">
-      <tspan fill="#ffce54">currently_building</tspan><tspan fill="#c9a97a">: </tspan><tspan>Frontend interfaces @ eGaisoft</tspan>
+      <tspan fill="#ffce54">currently_building</tspan><tspan fill="#c9a97a">: </tspan><tspan>Full Stack solutions @ eGaisoft</tspan>
     </text>
     <text x="40" y="294" font-size="15" fill="#f0e6d2">
-      <tspan fill="#ffce54">open_to</tspan><tspan fill="#c9a97a">: </tspan><tspan>ReactJS roles &amp; Frontend opportunities</tspan>
+      <tspan fill="#ffce54">open_to</tspan><tspan fill="#c9a97a">: </tspan><tspan>Full Stack &amp; Backend opportunities</tspan>
     </text>
   </g>
 </svg>
