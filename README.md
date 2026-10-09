@@ -48,10 +48,10 @@
 <br>
 
 <details open>
-<summary><b>🔵 Full Stack Developer — eGaisoft, Bangalore</b> &nbsp;<sub>Nov 2024 – Jun 2025</sub></summary>
+<summary><b>🔵 Full Stack Developer — eGaisoft, Bangalore</b> &nbsp;<sub>Nov 2024 – Nov 2025</sub></summary>
 <br>
 
-**Duration:** 8 months
+**Duration:** 1 year
 
 Developed responsive and user-friendly web interfaces using **HTML5, CSS3, JavaScript, ReactJS, and Bootstrap**. Built reusable ReactJS components and interactive UI features to improve application usability and maintainability. Implemented dynamic data handling using **React Hooks and REST APIs**. Integrated **WhatsApp Cloud API** for messaging workflows. Worked in an **Agile** environment using **Git, GitHub, Jira, and Postman**. 
 
@@ -64,9 +64,9 @@ Developed responsive and user-friendly web interfaces using **HTML5, CSS3, JavaS
 
 | | | |
 |---|---|---|
-| 🔺 **[Elai.in Order Dashboard](https://github.com/Kowsi7112/Elai-Dashboard)** | Interactive order management dashboard with filtering | `ReactJS` `React Hooks` `React-Bootstrap` |
-| 🌀 **[Recent Orders Table](https://github.com/Kowsi7112/OrderTable)** | Dynamic filtering & responsive table | `JavaScript` `Conditional Rendering` |
-| 🖐️ **[WhatsApp Cloud API](https://github.com/Kowsi7112/WhatsApp-API)** | Customer messaging feature integration | `REST API` `Postman` |
+| 🔹 **[Elai.in Order Dashboard](https://github.com/Kowsi7112/Elai-Dashboard)** | Interactive order management dashboard with filtering | `ReactJS` `React Hooks` `React-Bootstrap` |
+| 🌂 **[Recent Orders Table](https://github.com/Kowsi7112/OrderTable)** | Dynamic filtering & responsive table | `JavaScript` `Conditional Rendering` |
+| 🖋️ **[WhatsApp Cloud API](https://github.com/Kowsi7112/WhatsApp-API)** | Customer messaging feature integration | `REST API` `Postman` |
 
 <br>
 
