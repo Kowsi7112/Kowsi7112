@@ -48,10 +48,10 @@
 <br>
 
 <details open>
-<summary><b>🔵 Full Stack Developer — eGaisoft, Bangalore</b> &nbsp;<sub>Nov 2024 – Nov 2025</sub></summary>
+<summary><b>🔵 Full Stack Developer — eGaisoft, Bangalore</b> &nbsp;<sub>Nov 2024 – jun 2025</sub></summary>
 <br>
 
-**Duration:** 1 year
+**Duration:** 8 Month
 
 Developed responsive and user-friendly web interfaces using **HTML5, CSS3, JavaScript, ReactJS, and Bootstrap**. Built reusable ReactJS components and interactive UI features to improve application usability and maintainability. Implemented dynamic data handling using **React Hooks and REST APIs**. Integrated **WhatsApp Cloud API** for messaging workflows. Worked in an **Agile** environment using **Git, GitHub, Jira, and Postman**. 
 
