@@ -48,7 +48,7 @@
 <br>
 
 <details open>
-<summary><b>🔵 Full Stack Developer — eGaisoft, Bangalore</b> &nbsp;<sub>Nov 2024 – jun 2025</sub></summary>
+<summary><b>🔵 Full Stack Developer — eGaisoft, Bangalore</b> &nbsp;<sub>Nov 2024 – JUN 2025</sub></summary>
 <br>
 
 **Duration:** 8 Months
